@@ -1,0 +1,12 @@
+{
+  "name": "handlingimages",
+  "displayName": "handlingimages",
+  "expo": {
+    "name": "handlingimages",
+    "slug": "handlingimages",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
